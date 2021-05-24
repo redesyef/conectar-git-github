@@ -11,4 +11,4 @@ Tercero: Traer la versión del repositorio remoto y hacer merge para crear un co
 
 Por último, ahora sí podemos hacer git push para guardar
 los cambios de nuestro repositorio local en GitHub:
-# git push origin master
+# git push origin main
