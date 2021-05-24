@@ -7,7 +7,7 @@ Segundo: Verificar que la URL se haya guardadocorrectamente:
 # git remote -v
 
 Tercero: Traer la versión del repositorio remoto y hacer merge para crear un commit con los archivos de ambas partes. Podemos usar git fetch y git merge o solo el git pull con el flag --allow-unrelated-histories:
-# git pull origin master --allow-unrelated-histories
+# git pull origin main --allow-unrelated-histories
 
 Por último, ahora sí podemos hacer git push para guardar
 los cambios de nuestro repositorio local en GitHub:
